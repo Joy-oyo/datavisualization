@@ -1,5 +1,5 @@
 ## datavisualization
-week3lab - Normal Distribution & Sampling Distribution
-week6lab - Regression Model
-week7lab - Multi Regression
-week8lab/week8lab - Multi Linear Regression 
+Week3 Lab - Normal Distribution & Sampling Distribution <br>
+Week6 Lab - Regression Model <br>
+Week7 Lab - Multi Regression <br>
+Week8 Lab - Multi Linear Regression <br>
